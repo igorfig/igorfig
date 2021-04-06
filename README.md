@@ -4,7 +4,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 - 🌱 I’m currently learning JavaScript, html, css, react
 - 👨‍💻 All of my projects are available at [github.com/igorfig](https://github.com/igorfig?tab=repositories)
-- ✔️ My latest project are available at [github.com/latest](https://github.com/igorfig/random-color-generator)
+- ✔️ My latest project are available at [github.com/latest](https://github.com/igorfig/tic-tac-toe-react-tutorial)
 - 🤔 I’m looking for help with JavaScript, react
 - 📫 How to reach me **igorfigueiredors@gmail.com**
 
