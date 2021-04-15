@@ -13,8 +13,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/79371729/114893533-2c85c280-9de4-11eb-886a-713de072479f.png" alt="javascript" width="20" height="20/>
+<img src="https://user-images.githubusercontent.com/79371729/114895645-10832080-9de6-11eb-93fe-7d30ffde2f41.jpg" alt="nodejs" width="20" height="20" />
 </p>
+
 
 <p align="center">
  
