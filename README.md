@@ -4,7 +4,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node**
 - 🌱 I’m currently learning JavaScript, html, css, react, node
 - 👨‍💻 All of my projects are available at [github.com/igorfig](https://github.com/igorfig?tab=repositories)
-- ✔️ My latest update are available at [github.com/latest](https://github.com/igorfig/best-me-app-rocketseat-course/tree/main)
+- ✔️ My latest update are available at [github.com/latest](https://github.com/igorfig/maratona-discover-2)
 - 🤔 I’m looking for help with JavaScript, react
 - 📫 How to reach me **igorfigueiredors@gmail.com**
 
