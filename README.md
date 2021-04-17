@@ -8,17 +8,19 @@
 - 🤔 I’m looking for help with JavaScript, react
 - 📫 How to reach me **igorfigueiredors@gmail.com**
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/79371729/114896025-5b9d3380-9de6-11eb-94c3-b5c7346bb4fd.png" alt="nodejs" width="20" height="20" />
+<h2>Tecnologias</h2>
+<p align="center">
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
 </p>
 
 
-<p align="center">
- 
+<h2 align="center">Redes sociais<h2>
+
+<p align="center"> 
 <a href="https://twitter.com/igufsi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="igorfigueiredo" height="20" width="20" /></a>
 <a href="https://instagram.com/igufs123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="igorfigueiredo" height="20" width="20" /></a>
 </p>
