@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Figueiredo</h1>
-<h3 align="center">I'm a new programmer focused on learn</h3>
+<h3 align="center">I'm a programmer focused on learn</h3>
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node**
 - 🌱 I’m currently learning JavaScript, html, css, react, node
