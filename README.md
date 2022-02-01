@@ -4,7 +4,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node**
 - 🌱 I’m currently learning JavaScript, html, css, react, node
 - 🤔 I’m looking for help with JavaScript, react
-- 📫 How to reach me **igorfigueiredors@gmail.com**
+- 📫 How to reach me **contato.igorfig@gmail.com**
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
